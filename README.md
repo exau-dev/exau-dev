@@ -9,6 +9,9 @@ Je construis ici un portfolio de projets data appliqués à la finance (taux BCE
 
 - **Programme Grande École, Management et Ingénierie des Systèmes d'Information** — IMT Business School · Admis, rentrée 2027      
 
+### 🚧 Projets en cours
+
+- **Tableau de bord des taux BCE** : suivi de l'€STR face aux taux directeurs de la BCE, à partir des données publiques de la BCE (Power Query, Power BI) · *en cours*
 ### 📫 Me contacter
 
 LinkedIn : [linkedin.com/in/exaucé-maxfield](https://www.linkedin.com/in/exauc%C3%A9-maxfield/)
